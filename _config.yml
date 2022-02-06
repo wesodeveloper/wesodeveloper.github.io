@@ -19,7 +19,7 @@ description: WeSo webpage.
 
 keywords: WeSo, we socialize, app, iphone, activities, house offer, travel companion
 
-baseurl: "/WeSo" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "www.wesoapp.net" # the base hostname & protocol for your site, e.g. http://example.com
 
 github_username:  wesodeveloper
