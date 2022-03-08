@@ -125,7 +125,7 @@ h6 {
     transition: all .4s ease 0s;
     -webkit-transform: translateX(250px);
     transform: translateX(250px);
-    background: #1d809f;
+    background: #848482;
     border-left: 1px solid rgba(255, 255, 255, .1)
 }
 
